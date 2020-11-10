@@ -677,6 +677,9 @@ p.w3l-ad {
     margin-top: 40px;
 }
 .hover14.column {
+    padding-left: 1px;
+    padding-right: 1px;
+    border-radius: 3px;
     border: 1px solid #c0bebe;
     height: 500px;
 }
