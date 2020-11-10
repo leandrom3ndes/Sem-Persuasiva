@@ -1586,6 +1586,10 @@ ul.paging {
     width: 100% !important;
     
 }
+.products-left .categories h2{
+    color: #fe9126;
+    background-color: rgb(71, 70, 70);
+}
 
 .categories,.new-products{
 	border:1px solid #999;
