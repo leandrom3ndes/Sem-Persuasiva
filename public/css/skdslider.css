@@ -18,6 +18,7 @@
    display: none;
 }
 .skdslider ul.slides li img{
+	height: 125%;
     width: 100%;
 	border:0;
 }
